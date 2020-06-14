@@ -1,0 +1,57 @@
+{
+  "alert": {
+    "GET_DEFAULT_CITY": {
+      "text": "The city of the developer who wrote this app",
+      "title": "Loading the default city!"
+    },
+    "GET_CITY_AND_WEATHER": {
+      "text": "City or Country not found!",
+      "title": "Result of search"
+    },
+    "SEARCH": {
+      "text": "The search will occur when you enter at least 2 characters!",
+      "title": "The search rule!"
+    },
+    "UPDATE": "Update successfully!"
+  },
+  "sysErr": {
+    "SET_INFO_GEOLOCATION": {
+      "text": "System message",
+      "title": "Allow me to determine Your location"
+    },
+    "UnexpectedCrash": {
+      "text": "System message",
+      "title": "Unexpected crash!"
+    }
+  },
+  "days": {
+    "Sunday": "Sunday",
+    "Monday": "Monday",
+    "Tuesday": "Tuesday",
+    "Wednesday": "Wednesday",
+    "Thursday": "Thursday",
+    "Friday": "Friday",
+    "Saturday": "Saturday"
+  },
+  "months": {
+    "January": "January",
+    "February": "February",
+    "March": "March",
+    "April": "April",
+    "May": "May",
+    "June": "June",
+    "July": "July",
+    "August": "August",
+    "September": "September",
+    "October": "October",
+    "November": "November",
+    "December": "December"
+  },
+  "wind": "Wind",
+  "searchP": "Start search",
+  "search": "Search",
+  "longitude": "Longitude",
+  "latitude": "Latitude",
+  "humidity": "Humidity",
+  "feelsLike": "Feels Like"
+}
